@@ -1,2 +1,2 @@
 # Spring-Tutorials
-Spring Tutorials
+Spring Intro. Basics practise
